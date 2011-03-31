@@ -2,7 +2,7 @@
 Summary:	jQuery writeCapture plugin
 Name:		jquery-%{plugin}
 Version:	1.0.5
-Release:	0.1
+Release:	1
 License:	MIT / GPL
 Group:		Applications/WWW
 Source0:	https://github.com/iamnoah/writeCapture/tarball/v%{version}/#/%{plugin}-%{version}.tgz
